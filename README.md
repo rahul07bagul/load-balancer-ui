@@ -1,3 +1,3 @@
 # load-balancer-ui
 
-This repository is related to [Click here to view main project](https://github.com/rahul07bagul/load-balancer-cpp)
+This repository is related to [Load Balancer (C++)](https://github.com/rahul07bagul/load-balancer-cpp)
